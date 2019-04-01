@@ -1,0 +1,9 @@
+//案例动态表回调接口： window.external.OnQueryCaseInfoByConditon(strOrgs,strBeginTime,strEndTime,strVague,"","");
+
+//警力部署在线路回调接口：window.external.OnQueryPoliceUserOnline(strOrgs);
+
+//安防设备在线率回调接口：window.external.OnQueryPUOnline(strOrgs);
+
+//综合案例统计回调接口：window.external.OnQueryCaseNumByConditon(strOrgs,strBeginTime,strEndTime);
+
+//警种统计回调接口：window.external.OnQueryPolicType(strOrgs);
